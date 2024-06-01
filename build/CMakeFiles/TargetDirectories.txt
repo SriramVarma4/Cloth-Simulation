@@ -1,0 +1,4 @@
+/home/varma/Desktop/a4-main/build/CMakeFiles/rebuild_cache.dir
+/home/varma/Desktop/a4-main/build/CMakeFiles/edit_cache.dir
+/home/varma/Desktop/a4-main/build/CMakeFiles/example.dir
+/home/varma/Desktop/a4-main/build/CMakeFiles/col781.dir

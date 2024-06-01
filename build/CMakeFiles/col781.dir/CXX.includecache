@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/varma/Desktop/a4-main/src/camera.cpp
+camera.hpp
+/home/varma/Desktop/a4-main/src/camera.hpp
+glm/gtc/matrix_transform.hpp
+-
+iostream
+-
+
+/home/varma/Desktop/a4-main/src/camera.hpp
+hw.hpp
+/home/varma/Desktop/a4-main/src/hw.hpp
+
+/home/varma/Desktop/a4-main/src/hw.cpp
+hw.hpp
+/home/varma/Desktop/a4-main/src/hw.hpp
+iostream
+-
+vector
+-
+
+/home/varma/Desktop/a4-main/src/hw.hpp
+GL/glew.h
+-
+glm/glm.hpp
+-
+SDL2/SDL.h
+-
+string
+-
+
